@@ -1,0 +1,2 @@
+MYSQL SORGULAR KLASÖRÜ 
+1-  sakila_db => Sakila Veritabanı ile SQL sorgu örnekleri yapıldı.
